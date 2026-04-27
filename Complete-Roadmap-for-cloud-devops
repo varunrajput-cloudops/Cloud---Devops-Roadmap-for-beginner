@@ -1,0 +1,125 @@
+(Beginner to Advanced)
+A structured roadmap to become a Cloud & DevOps Engineer by mastering core concepts, tools, and real-world workflows.
+
+##📌 1. Linux Fundamentals
+
+Learn Linux because most servers run on Linux.
+Topics:
+
+•File System Structure
+•Basic Linux Commands
+•File Permissions (chmod, chown)
+•Users & Groups
+•Process Management (ps, top, kill)
+•Practice:
+•Create files/folders using terminal
+•Manage permissions
+•Monitor running processes
+
+
+##🌐 2. Networking Basics
+
+Strong networking knowledge is essential for DevOps.
+Topics:
+
+•IP Addressing
+•DNS
+•HTTP vs HTTPS
+•Ports & Protocols
+•Client-Server Architecture
+•Practice:
+•Use ping, curl, netstat
+•Understand how websites work
+
+
+##🔧 3. Git & GitHub
+
+Version control is mandatory for DevOps workflows.
+Topics:
+
+•git init, git add, git commit
+•Push / Pull
+•Branching
+•Merge & Conflict Resolution
+•Practice:
+•Create repositories
+•Collaborate using branches
+•Push projects to GitHub
+
+
+##🐍 4. Scripting (Python / Bash)
+
+Automation is the heart of DevOps.
+Topics:
+
+•Variables
+•Loops
+•Conditions
+•Functions
+•Simple Automation Scripts
+•Practice:
+•Backup scripts
+•File cleanup automation
+•Health check scripts
+
+
+##☁️ 5. Cloud Computing (AWS Recommended)
+
+Cloud is the modern infrastructure platform.
+Core Services:
+
+•EC2 (Virtual Servers)
+•S3 (Storage)
+•IAM (Users / Roles / Policies)
+•VPC (Networking Basics)
+
+Concepts:
+
+•Public vs Private Servers
+•Security Groups
+•Key Pair Authentication
+
+
+##🐳 6. Docker
+
+Containerization makes deployment easier.
+Topics:
+
+•Docker Images
+•Docker Containers
+•Dockerfile
+•Docker Hub
+•Practice:
+•Build custom images
+•Run containers
+•Deploy applications inside containers
+
+
+##⚙️ 7. CI/CD Pipeline
+
+Automate build, test, and deployment process.
+Tools:
+
+•GitHub Actions
+•Jenkins
+•GitLab CI/CD
+•Pipeline Flow:
+•Code → Build → Test → Deploy
+•Goal:
+•Fully automated deployments
+
+
+##☸️ 8. Kubernetes
+
+Used to manage containers at scale.
+Topics:
+
+•Pods
+•Deployments
+•Services
+•Scaling
+•Namespaces
+•Practice:
+•Deploy containerized apps
+•Scale applications
+•Rolling updates
